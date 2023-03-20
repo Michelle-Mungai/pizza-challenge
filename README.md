@@ -86,7 +86,6 @@ For the appication to work  the following must be installed on your local machin
 ### Usage
 After ensuring that the dependancies are installed and working,follow these steps to get the appliction up and running:
 - fork and clone this repository into your local machine
-- cd into the directory pizza-challenge
 - open a terminal session in the directory where the app is contained and run the command: **bundle install** 
 - after the gems are installs run the command **rails server**
 - follow the generated link to access the application
